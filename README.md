@@ -9,7 +9,8 @@ See [`specs/mission.md`](specs/mission.md), [`specs/tech-stack.md`](specs/tech-s
 
 ## About the course
 
-This project is the running example for **AI Coding Workflows: From Cloud to Local**, a
+This project is the running example for [**AI Coding Workflows: From Cloud to
+Local**](https://www.deeplearning.ai/courses/ai-coding-workflows-from-cloud-to-local), a
 DeepLearning.AI course built in partnership with JetBrains and taught by Paul Everett,
 Developer Advocate at JetBrains.
 
