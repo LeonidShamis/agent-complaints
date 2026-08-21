@@ -62,3 +62,4 @@ git diff <tag-a> <tag-b>
 | `claude-code-with-multiple-cloud-subagents` | Claude Code — multiple cloud subagents |
 | `claude-code-with-multiple-haiku-subagents` | Claude Code — multiple Haiku subagents |
 | `opencode-with-single-local-qwen-agent` | OpenCode — single agent, local Qwen3 model via Ollama |
+| `opencode-with-multiple-local-qwen-subagents` | OpenCode — multiple local Qwen implementer subagents, one per task (sequential) |
