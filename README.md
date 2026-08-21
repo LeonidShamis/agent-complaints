@@ -59,3 +59,4 @@ git diff <tag-a> <tag-b>
 | Tag | Description |
 |-----|-------------|
 | `claude-code-baseline-single-sonnet-subagent` | Claude Code Baseline — single Sonnet subagent |
+| `claude-code-with-multiple-cloud-subagents` | Claude Code — multiple cloud subagents |
