@@ -61,3 +61,4 @@ git diff <tag-a> <tag-b>
 | `claude-code-baseline-single-sonnet-subagent` | Claude Code Baseline — single Sonnet subagent |
 | `claude-code-with-multiple-cloud-subagents` | Claude Code — multiple cloud subagents |
 | `claude-code-with-multiple-haiku-subagents` | Claude Code — multiple Haiku subagents |
+| `opencode-with-single-local-qwen-agent` | OpenCode — single agent, local Qwen3 model via Ollama |
